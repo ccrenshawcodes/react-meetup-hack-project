@@ -33,6 +33,10 @@
   }
 }
 
+.selected {
+  background-color: green;
+}
+
 .card {
   padding: 2em;
 }
